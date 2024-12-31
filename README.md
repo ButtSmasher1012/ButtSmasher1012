@@ -1,4 +1,6 @@
-👋 Hi, I’m @ButtSmasher1012 Patel Chirang
+![68747470733a2f2f7331322e67696679752e636f6d2f696d616765732f5374436c352e676966](https://github.com/user-attachments/assets/fcebee6d-a0d3-415d-8cf3-defe7b86eaa3)
+
+👋 Hi, I’m @ButtSmasher1012 PATEL CHIRANG
 👀 I’m interested in coding, tech innovations, and creative problem-solving.
 🌱 I’m currently learning data structures, algorithms, and building cool projects using C, Java and Python.
 💞️ I’m looking to collaborate on open-source projects, automation tools, or anything fun and impactful!
